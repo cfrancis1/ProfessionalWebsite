@@ -1,0 +1,115 @@
+.align-left {
+	float: left;
+	
+	width: 1000px;
+}
+
+.align-right {
+	float: right;
+	text-align:right;
+	position: relative;
+	width: 1000px;
+	margin-top: -10px;
+}
+
+.divide{
+	border: 3px solid #3f51b5;
+	border-radius: 5px;
+}
+
+.contact_info{
+	text-align: center;
+	line-height:0px;
+}
+
+.home_page{
+	text-align: center;
+	line-height:0px;
+}
+
+.button {
+	font: bold 15px Arial;
+	text-decoration: none;
+	background-color: #3f51b5;
+	color: White;
+	padding: 10px 10px 10px 10px;
+	border-top: 2px solid #CCCCCC;
+	border-right: 2px solid #333333;
+	border-bottom: 2px solid #333333;
+	border-left: 2px solid #CCCCCC;
+}
+
+
+div#box1{
+	position: relative;
+	margin:22px 0px 15px 0px;
+}
+
+div#box2{
+	position: relative;
+	margin:50px 0px 15px 0px;
+}
+
+h1{
+	text-align: center;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 55px;
+	color: White;
+	background-color: #3f51b5;
+	border-radius: 5px;
+	width: 1000px;
+	line-height:75px;
+}
+
+h2{
+	font-family: Veranda, Geneva, sans-serif;
+	font-size: 30px;
+	line-height:0px;
+	margin: 22px 0px 15px 0px;
+}
+
+h3 {
+	font-family: Veranda, Geneva, sans-serif;
+	font-size: 20px;
+	line-height:0px;
+	margin: 20px 0px 10px 0px;
+}
+
+h4 {
+	font-family: Veranda, Geneva, sans-serif;
+	font-size: 15px;
+	line-height:0px;
+	font-style: italic;
+	
+}
+
+li{
+	margin: 3px 0px 3px 15px;
+	font-family: Georgia, serif;
+	font-size: 15px;
+}
+
+div {
+	width: 1000px;
+}
+
+p {
+	margin: 0px 0px 0px 30px;
+	line-height:1.5em;
+	font-family: Georgia, serif;
+	font-size: 15px;
+}
+
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+	overflow: scroll
+}
